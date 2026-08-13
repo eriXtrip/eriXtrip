@@ -1,81 +1,59 @@
 ## Hi there 👋
 
-I'm **Jon Eric Tripulca** (JEDT) — a Full-Stack Developer and IT Specialist from **Legazpi City, Albay, Philippines**. I build web applications and practical IT systems that streamline real-world workflows.
+I'm **Jon Eric** — but everyone calls me **ERIC**. I'm a full-stack developer and IT specialist from **Legazpi City, Albay, Philippines** 🇵🇭 who loves building things that actually make people's day-to-day easier.
 
-- 🔭 Currently open to full-time roles, internships, and freelance technical projects
-- 🌱 Focused on React, Laravel, React Native, and Linux system administration
-- 💻 Experienced in web/mobile development, IT support, networking, and graphic design
-- 📫 Reach me at **jonerictripulca@gmail.com**
-- 🌐 Portfolio: [jedt-portfolio.vercel.app](https://jedt-portfolio.vercel.app/)
+Not the kind of developer who just ships code — I sit down with the people who'll use the system first, watch how they work by hand, and *then* build around their real workflow. That's how I ended up replacing a lab's Excel-based specimen grid with a full-stack system that cut processing time by 75%.
+
+When I'm not coding, I'm setting up election machines for COMELEC, configuring servers on Ubuntu, or designing pubmats for 30+ clients (yes, I do that too 🎨).
 
 ---
 
-## ⚙️ Tech Stack
+### 🧰 My Toolbox
 
-| Category | Tools & Technologies |
-| --- | --- |
-| **Web & Mobile** | React, React Native, Node.js, JavaScript (ES6+), TypeScript, HTML5 & CSS3, PHP, Laravel, Tailwind CSS, REST APIs, Android, iOS |
-| **Databases** | MySQL, MariaDB, PostgreSQL, SQLite, Database Design, Data Migration |
-| **Networking** | Cisco Packet Tracer, TCP/IP, DNS & DHCP, VLAN Configuration, Routing & Switching, Firewalls, Network Design |
-| **System Admin** | Ubuntu Server, VirtualBox, Bash / CLI, User & Permission Management, Server Maintenance |
-| **IT Support** | On-Site Technical Support, Helpdesk, IT Troubleshooting, Remote Desktop, Technical Documentation |
-| **Design** | Adobe Photoshop, Canva, Video / Audio Editing, Publication Materials |
+**Web & Mobile** · React, React Native, Laravel, Node.js, TypeScript, Tailwind CSS, PHP, REST APIs
+**Databases** · MySQL, MariaDB, PostgreSQL, SQLite
+**Networking** · Cisco Packet Tracer, TCP/IP, VLANs, Routing & Switching, Firewalls
+**System Admin** · Ubuntu Server, VirtualBox, Bash/CLI, SSH, Apache
+**Design** · Photoshop, Canva, Video/Audio Editing, Pubmats
 
 ---
 
-## 🛠️ Featured Projects
+### 🚀 Things I've Built
 
-### [BUCS MCC](https://bucs-mcc-demo.vercel.app/) (2026)
-Microbial Culture Collection management system — a secure full-stack app replacing legacy Excel sheets with normalized MySQL, RBAC, real-time availability filters, and automated SMTP mailers, cutting specimen processing turnaround by 75%.
-**React · Laravel · MySQL · Tailwind CSS · Vercel**
+**BUCS MCC** *(2026)* — Microbial culture collection system for Bicol University. Replaced manual Excel grids with React + Laravel + MySQL, automated status mailers, and role-based access. Live demo: [bucs-mcc-demo.vercel.app](https://bucs-mcc-demo.vercel.app/)
 
-### [MQuest E-learning](https://drive.google.com/uc?id=1FUiAeCTxzD6KjV8BO3YmOiRRX2t_6QZ6&export=download) (2025)
-Mobile-first gamified learning app with bite-sized interactive cards, gamified challenges, and real-time scoreboards — lifted course engagement by 38%.
-**React Native · Node.js · Laravel · Tailwind CSS · Bootstrap**
+**MQuest E-learning** *(2025)* — Mobile gamified learning app (React Native + Node.js) with bite-sized cards, challenges, and real-time scoreboards. Lifted course engagement by 38%.
 
-### [Rental Management System](https://github.com/eriXtrip) (2024)
-Windows Forms rental & inventory desktop utility with auto-scheduling buffers, real-time product states, invoice generation, and Excel reports packaged into a single installer.
-**C# · .NET · MySQL · Inno Setup · Excel**
+**Rental Management System** *(2024)* — C#/.NET Windows app for local rental shops. Auto-scheduling buffers, real-time stock states, invoice generation, Excel reports — all in one installer.
 
-### [OroSite Teachers Portal](https://drive.google.com/file/d/181XF02IEp_50qcNR1MSnWGlp7cwOG0P1/view?usp=sharing) (2023)
-Unified academic dashboard for faculty combining grade submissions, live attendance, and cross-departmental messaging — saving instructors ~5 hours of admin work per week.
-**React · JavaScript · Laravel**
+**OroSite Teachers Portal** *(2023)* — One dashboard to rule faculty life: grades, live attendance, and messaging. Saved instructors ~5 hours of admin per week.
 
-### [EcoLocal E-commerce](https://drive.google.com/file/d/1B8ZWoWT6EqoGuRJ8V-zI3hgD6n5gzVXG/view?usp=sharing) (2023)
-Multi-vendor platform for local merchants with MongoDB, secure JWT auth, and Stripe payments — digitized 50+ vendor storefronts and raised net margins ~22%.
-**React · Node.js · MongoDB · Stripe**
+**EcoLocal E-commerce** *(2023)* — Multi-vendor storefront platform. Digitized 50+ local shops, boosted their net margins ~22% with direct payments.
 
-### [Network Design & Implementation](https://github.com/eriXtrip) (2024)
-Cisco Packet Tracer campus network simulations covering physical/logical topologies, VLAN segmentation, routing protocols, and security policies.
-**Cisco Packet Tracer · TCP/IP · VLAN · DNS · DHCP**
-
-### [Ubuntu System Administration](https://github.com/eriXtrip) (2025)
-VirtualBox Ubuntu Server lab environments with SSH, Apache, and MySQL configuration, plus user permissions and troubleshooting notes.
-**Ubuntu · VirtualBox · SSH · Apache · MySQL**
+**Network Design & Ubuntu Labs** *(2024–2025)* — Cisco Packet Tracer campus simulations and VirtualBox Ubuntu server labs for hands-on IT practice.
 
 ---
 
-## 💼 Experience
+### 💼 Where I've Been
 
-- **Full-Stack Developer Intern** — Bicol University College of Science (BUCS-MCC), 14-week internship
-- **Technical Support Specialist (DESO)** — COMELEC Legazpi, May 2025 (election period)
-- **Freelance Graphic Designer** — Self-Employed, 2024 – Present
-
----
-
-## 🎓 Education & Credentials
-
-- **Diploma in Information Technology** — Bicol University (2026)
-- **IT Customer Support Basics** — CISCO Networking Academy
-- TESDA certifications: Computer Systems Servicing, Setting Up Computer Servers, Maintaining Systems & Networks, Installing & Configuring Computer Systems, Introduction to CSS, Wi-Fi 101 & Digital Thumbprint
+- **Full-Stack Developer Intern** · Bicol University College of Science (BUCS-MCC) · 14-week internship
+- **Technical Support Specialist (DESO)** · COMELEC Legazpi · May 2025 — ran election-day IT across 5 precincts, 15+ personnel, 1,000+ voters, keeping the ACMs and connectivity alive with Starlink backup
+- **Freelance Graphic Designer** · Self-Employed · 2024–present — pubmats for barangays, schools, and even Project Layag (UPLB)
 
 ---
 
-## 📬 Let's Connect
+### 🎓 Credentials
 
-- **Email:** jonerictripulca@gmail.com
-- **Phone:** +63 905 420 5568
-- **LinkedIn:** [jon-eric-tripulca](https://www.linkedin.com/in/jon-eric-tripulca-2b87ab417)
-- **Facebook:** [ccerilac](https://www.facebook.com/ccerilac)
-- **Instagram:** [ccerilac](https://www.instagram.com/ccerilac/)
-- **Portfolio:** [jedt-portfolio.vercel.app](https://jedt-portfolio.vercel.app/)
+Diploma in Information Technology (Bicol University, 2026) · Cisco IT Customer Support Basics · TESDA certifications in Computer Systems Servicing, Setting Up Servers, Maintaining Systems & Networks, and more
+
+---
+
+### 📫 Say Hi
+
+- 📧 **Email:** jonerictripulca@gmail.com
+- 📞 **Phone:** +63 905 420 5568
+- 🌐 **Portfolio:** [jedt-portfolio.vercel.app](https://jedt-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [jon-eric-tripulca](https://www.linkedin.com/in/jon-eric-tripulca-2b87ab417)
+- 🐙 **GitHub:** [@eriXtrip](https://github.com/eriXtrip)
+
+Open to full-time roles, internships, and freelance work — always happy to chat. ☕
