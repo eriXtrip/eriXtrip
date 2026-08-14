@@ -2,7 +2,7 @@
 
 I'm **Jon Eric** — but everyone calls me **ERIC**. I'm a full-stack developer and IT specialist from **Legazpi City, Albay, Philippines** 🇵🇭 who loves building things that actually make people's day-to-day easier.
 
-Not the kind of developer who just ships code — I sit down with the people who'll use the system first, watch how they work by hand, and *then* build around their real workflow. That's how I ended up replacing a lab's Excel-based specimen grid with a full-stack system that cut processing time by 75%.
+Not the kind of developer who just ships code — I sit down with the people who'll use the system first, watch how they work by hand, and *then* build around their real workflow. That's how I ended up replacing a lab's Excel-based specimen grid with a full-stack system that cut processing time.
 
 When I'm not coding, I'm setting up election machines for COMELEC, configuring servers on Ubuntu, or designing pubmats for 30+ clients (yes, I do that too 🎨).
 
