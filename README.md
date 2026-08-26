@@ -22,13 +22,13 @@ When I'm not coding, I'm setting up election machines for COMELEC, configuring s
 
 **BUCS MCC** *(2026)* — Microbial culture collection system for Bicol University. Replaced manual Excel grids with React + Laravel + MySQL, automated status mailers, and role-based access. Live demo: [bucs-mcc-demo.vercel.app](https://bucs-mcc-demo.vercel.app/)
 
-**MQuest E-learning** *(2025)* — Mobile gamified learning app (React Native + Node.js) with bite-sized cards, challenges, and real-time scoreboards. Lifted course engagement by 38%.
+**MQuest E-learning** *(2025)* — Mobile gamified learning app (React Native + Node.js) with bite-sized cards, challenges, and real-time scoreboards. Lifted course engagement.
 
 **Rental Management System** *(2024)* — C#/.NET Windows app for local rental shops. Auto-scheduling buffers, real-time stock states, invoice generation, Excel reports — all in one installer.
 
-**OroSite Teachers Portal** *(2023)* — One dashboard to rule faculty life: grades, live attendance, and messaging. Saved instructors ~5 hours of admin per week.
+**OroSite Teachers Portal** *(2023)* — One dashboard to rule faculty life: grades, live attendance, and messaging. Saved instructors hours of admin per week.
 
-**EcoLocal E-commerce** *(2023)* — Multi-vendor storefront platform. Digitized 50+ local shops, boosted their net margins ~22% with direct payments.
+**EcoLocal E-commerce** *(2023)* — Multi-vendor storefront platform. Digitized 50+ local shops, boosted their net margins with direct payments.
 
 **Network Design & Ubuntu Labs** *(2024–2025)* — Cisco Packet Tracer campus simulations and VirtualBox Ubuntu server labs for hands-on IT practice.
 
