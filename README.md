@@ -13,16 +13,20 @@ When I'm not coding, I'm setting up election machines for COMELEC, configuring s
 **Web & Mobile** · React, React Native, Laravel, Node.js, TypeScript, Tailwind CSS, PHP, REST APIs
 **Databases** · MySQL, MariaDB, PostgreSQL, SQLite
 **Networking** · Cisco Packet Tracer, TCP/IP, VLANs, Routing & Switching, Firewalls
-**System Admin** · Ubuntu Server, VirtualBox, Bash/CLI, SSH, Apache
+**System Admin** · Ubuntu Server, VirtualBox, Bash/CLI, SSH, Apache, PowerAutomate
 **Design** · Photoshop, Canva, Video/Audio Editing, Pubmats
 
 ---
 
 ### 🚀 Things I've Built
 
+**LottoCa** *(2026)* — LottoCam is camera-first: it photographs a ticket, reads the game, draw date, and up to four combinations, drops them into editable fields, and then checks each combination against the published result. OCR runs in the browser, so ticket images never leave the device. Live Site: [lotto-cam.vercel.app](https://lotto-cam.vercel.app/)
+
+**Mt. Masaraga Protected Landscape Eco-Tourism Portal** *(2026)* — Inspired during an interview with DENR CENRO Guinobatan for a Project Support Assistant (IT) position, where the need for a centralized hiking booking system was discussed, I independently created this front-end demo to demonstrate a potential digital solution for Mt. Masaraga Protected Landscape. Live demo: [mt-masaraga-protected-landscape-dem.vercel.app](https://mt-masaraga-protected-landscape-dem.vercel.app/)
+
 **BUCS MCC** *(2026)* — Microbial culture collection system for Bicol University. Replaced manual Excel grids with React + Laravel + MySQL, automated status mailers, and role-based access. Live demo: [bucs-mcc-demo.vercel.app](https://bucs-mcc-demo.vercel.app/)
 
-**MQuest E-learning** *(2025)* — Mobile gamified learning app (React Native + Node.js) with bite-sized cards, challenges, and real-time scoreboards. Lifted course engagement.
+**MQuest E-learning** *(2025)* — Mobile gamified learning app (React Native + Node.js) with bite-sized cards, challenges, and real-time scoreboards. Lifted course engagement. Download App demo: [m-quest](https://drive.usercontent.google.com/download?id=1FUiAeCTxzD6KjV8BO3YmOiRRX2t_6QZ6&export=download&authuser=0)
 
 **Rental Management System** *(2024)* — C#/.NET Windows app for local rental shops. Auto-scheduling buffers, real-time stock states, invoice generation, Excel reports — all in one installer.
 
