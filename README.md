@@ -20,7 +20,7 @@ When I'm not coding, I'm setting up election machines for COMELEC, configuring s
 
 ### 🚀 Things I've Built
 
-**LottoCa** *(2026)* — LottoCam is camera-first: it photographs a ticket, reads the game, draw date, and up to four combinations, drops them into editable fields, and then checks each combination against the published result. OCR runs in the browser, so ticket images never leave the device. Live Site: [lotto-cam.vercel.app](https://lotto-cam.vercel.app/)
+**LottoCam** *(2026)* — LottoCam is camera-first: it photographs a ticket, reads the game, draw date, and up to four combinations, drops them into editable fields, and then checks each combination against the published result. OCR runs in the browser, so ticket images never leave the device. Live Site: [lotto-cam.vercel.app](https://lotto-cam.vercel.app/)
 
 **Mt. Masaraga Protected Landscape Eco-Tourism Portal** *(2026)* — Inspired during an interview with DENR CENRO Guinobatan for a Project Support Assistant (IT) position, where the need for a centralized hiking booking system was discussed, I independently created this front-end demo to demonstrate a potential digital solution for Mt. Masaraga Protected Landscape. Live demo: [mt-masaraga-protected-landscape-dem.vercel.app](https://mt-masaraga-protected-landscape-dem.vercel.app/)
 
